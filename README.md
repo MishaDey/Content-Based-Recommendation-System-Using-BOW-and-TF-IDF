@@ -31,7 +31,7 @@ A context-based Recommendation System from Scratch Using BOW(Bag Of Words) Model
 
 3. Extraction of the numerical features from the 'titles' of each product in the form of vectors.
 
-4. Compute the similarity between the title vectors using euclidian distance or cosine similarity
+4. Compute the similarity between the title vectors using criteria such as euclidian distance, cosine similarity, etc
 
 5. Recommend 'n' numbers of products having the most similarity with the product, using BOW(Bag Of Words ) and TF-IDF models
 
