@@ -1,7 +1,7 @@
 # Content-Based-Recommendation-System-Using-BOW-and-TF-IDF
 A context-based Recommendation System from Scratch Using BOW(Bag Of Words) Model and TF-IDF Model. Dataset- Amazon's Women Apparel
 
-###Libraries and Modules Used :
+### Libraries and Modules Used :
 
        1. sci-kit learn
 
@@ -15,13 +15,13 @@ A context-based Recommendation System from Scratch Using BOW(Bag Of Words) Model
 
        6. Matplotlib 
 
-###Dataset Description :
+### Dataset Description :
 
         Amazon's Women ApparelProduct Dataset(180k Data Points) from Amazon associates Products API.
 
         For the dataset send an email at - misha.2june@gmail.com
 
-###STEPS :
+### STEPS :
 
 0. Perform Exploratory Data Analysis to understand the dataset better.
 
@@ -35,7 +35,7 @@ A context-based Recommendation System from Scratch Using BOW(Bag Of Words) Model
 
 5. Recommend 'n' numbers of products having the most similarity with the product, using BOW(Bag Of Words ) and TF-IDF models
 
-###Demonstration Video Link :
+### Demonstration Video Link :
 
 https://drive.google.com/file/d/1gUyj9WxwmFFzCDQixNecGNOO3l7WasM_/view?usp=sharing
 
