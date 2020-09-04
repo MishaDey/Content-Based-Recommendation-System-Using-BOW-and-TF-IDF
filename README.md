@@ -35,6 +35,8 @@ A content-based Recommendation System from Scratch Using BOW(Bag Of Words) Model
 
 5. Recommend 'n' numbers of products having the most similarity with the product, using BOW(Bag Of Words ) and TF-IDF models
 
+Observation: TF-IDF Model provides better recommendation results than BOW Model.
+
 ### Demonstration Video Link :
 
 https://drive.google.com/file/d/1gUyj9WxwmFFzCDQixNecGNOO3l7WasM_/view?usp=sharing
